@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [View Solution]([https://your-solution-url.com](https://pdineshmurugan.github.io/SunnySide/))
-
+- Solution URL: [View Solution](.[https://your-solution-url.com](https://pdineshmurugan.github.io/SunnySide/))
+https://pdineshmurugan.github.io/SunnySide/
 
 ## My process
 
@@ -42,10 +42,7 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JavaScript library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styling components
+
 
 ### What I learned
 
