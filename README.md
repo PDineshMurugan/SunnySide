@@ -26,13 +26,13 @@ Users should be able to:
 - See hover states for all interactive elements on the page.
 
 ### Screenshot
-
-![Screenshot](./screenshot.jpg)
+![Deskto[](design/desktop-design.jpg)
+![Mobile](design/mobile-design.jpg)
 
 ### Links
 
 - Solution URL: [View Solution](https://your-solution-url.com)
-- Live Site URL: [View Live Site](https://dineshmurugan.netlify.app/)
+
 
 ## My process
 
