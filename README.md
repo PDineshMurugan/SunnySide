@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [View Solution](https://your-solution-url.com)
+- Solution URL: [View Solution]([https://your-solution-url.com](https://pdineshmurugan.github.io/SunnySide/))
 
 
 ## My process
