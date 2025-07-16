@@ -173,6 +173,10 @@ body ,html{
       border-radius: 50%;
       width: 20%;
     }
+    .testimononials .profile p{
+      opacity: 50%;
+      margin-top: 0;
+    }
 
 
     #Projects{
@@ -184,9 +188,7 @@ body ,html{
      
     }
     .gallery img{
-width: 25%;
-  
-      
+      width: 25%;      
     }
 
     #Contact{
@@ -274,11 +276,11 @@ width: 25%;
       }
    
        .aboutContainer .content {
-          width: 90%; 
+          width: 100%; 
           display: flex;
-
           flex-direction:column ;
           align-items: center;
+          padding: 10px;
         
       } 
       
@@ -300,8 +302,6 @@ width: 25%;
         font-size: x-large;
         padding: 10px;
       }
-      
-      
       
       .aboutContainer .image2{
         background-image: url(images/mobile/image-stand-out.jpg);
@@ -327,14 +327,12 @@ width: 25%;
         height: 60vh;
       }
       .testimononials {
-        width: 90%;
-        padding: 10%;
+        width: 100%;
+        padding: 10px;
       }
       .testimononials h1{
         font-size: 30px;
-     
-        width: 100%;
-        margin: 0;
+        padding: 10px;
       }
       .testimononials .profiles{
         display: flex;
